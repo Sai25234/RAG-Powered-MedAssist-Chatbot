@@ -1,0 +1,262 @@
+[
+    {
+        "patient_id": "PT-001",
+        "age": 58,
+        "gender": "Male",
+        "conditions": [
+            "Type 2 Diabetes Mellitus",
+            "Hypertension",
+            "Hyperlipidemia"
+        ],
+        "medications": [
+            "Metformin 1000mg BID",
+            "Lisinopril 20mg daily",
+            "Atorvastatin 40mg daily"
+        ],
+        "clinical_notes": "Patient is a 58-year-old male with a 10-year history of Type 2 Diabetes Mellitus, well-controlled on metformin with latest HbA1c of 6.8%. Blood pressure managed with lisinopril, averaging 128/78 mmHg at home. Lipid panel shows LDL 95 mg/dL on atorvastatin. Recent comprehensive metabolic panel within normal limits. Kidney function stable with eGFR 72 mL/min. Annual diabetic eye exam showed no retinopathy. Foot exam unremarkable. Patient counseled on continued dietary management, regular exercise, and medication adherence. Follow-up in 3 months with repeat HbA1c and lipid panel.",
+        "source": "Patient Records"
+    },
+    {
+        "patient_id": "PT-002",
+        "age": 34,
+        "gender": "Female",
+        "conditions": [
+            "Asthma (Moderate Persistent)",
+            "Allergic Rhinitis"
+        ],
+        "medications": [
+            "Fluticasone-Salmeterol 250/50 BID",
+            "Albuterol PRN",
+            "Cetirizine 10mg daily"
+        ],
+        "clinical_notes": "Patient is a 34-year-old female with moderate persistent asthma diagnosed at age 12. Currently on Step 3 therapy per GINA guidelines with combination ICS-LABA inhaler. Reports using rescue albuterol approximately 2 times per week. Triggers include dust, pollen, and cold air. Recent spirometry shows FEV1 82% predicted with 14% reversibility post-bronchodilator. Peak flow diary shows variability of 18%. No ER visits or hospitalizations in past 12 months. Asthma action plan reviewed and updated. Allergic rhinitis managed with daily cetirizine and nasal saline irrigation. Environmental control measures discussed including HEPA filters and dust mite covers. Next follow-up in 6 months or sooner if symptoms worsen.",
+        "source": "Patient Records"
+    },
+    {
+        "patient_id": "PT-003",
+        "age": 72,
+        "gender": "Female",
+        "conditions": [
+            "Atrial Fibrillation",
+            "Heart Failure (HFrEF, EF 35%)",
+            "Chronic Kidney Disease Stage 3a"
+        ],
+        "medications": [
+            "Apixaban 5mg BID",
+            "Metoprolol Succinate 100mg daily",
+            "Sacubitril-Valsartan 97/103mg BID",
+            "Spironolactone 25mg daily",
+            "Furosemide 40mg daily",
+            "Dapagliflozin 10mg daily"
+        ],
+        "clinical_notes": "Patient is a 72-year-old female with non-valvular atrial fibrillation (CHA2DS2-VASc score 5) and heart failure with reduced ejection fraction. Echocardiogram 3 months ago showed EF 35%, moderate mitral regurgitation, and left atrial enlargement. Currently on optimized guideline-directed medical therapy with ARNI, beta-blocker, MRA, and SGLT2 inhibitor — the four-pillar approach. Heart rate controlled at 68 bpm on current regimen. Weight stable, no lower extremity edema on exam. BNP trending down from 450 to 280 pg/mL over last 6 months. CKD stage 3a with eGFR 52, stable. Potassium 4.6 mEq/L on spironolactone — monitoring closely. ICD placement discussed given EF ≤35%; patient considering. Sodium restriction (<2g/day) and daily weight monitoring reinforced. Cardiac rehabilitation referral placed.",
+        "source": "Patient Records"
+    },
+    {
+        "patient_id": "PT-004",
+        "age": 45,
+        "gender": "Male",
+        "conditions": [
+            "Major Depressive Disorder",
+            "Generalized Anxiety Disorder",
+            "Insomnia"
+        ],
+        "medications": [
+            "Sertraline 150mg daily",
+            "Buspirone 15mg BID",
+            "Melatonin 3mg at bedtime"
+        ],
+        "clinical_notes": "Patient is a 45-year-old male with a 5-year history of major depressive disorder and comorbid generalized anxiety disorder. PHQ-9 score improved from 18 (moderately severe) to 8 (mild) over 4 months of combined pharmacotherapy and cognitive behavioral therapy. GAD-7 score decreased from 15 to 7. Patient reports improved sleep with sleep hygiene interventions and melatonin, though still averaging 5.5-6 hours per night. Sertraline dose titrated from 100mg to 150mg 6 weeks ago with good response and no significant side effects. Currently attending weekly CBT sessions. Reports regular exercise (walking 30 minutes daily) and improved social engagement. No suicidal ideation. Safety plan in place. Continue current regimen and reassess in 6 weeks.",
+        "source": "Patient Records"
+    },
+    {
+        "patient_id": "PT-005",
+        "age": 62,
+        "gender": "Female",
+        "conditions": [
+            "Breast Cancer (Luminal A, Stage IIA)",
+            "Osteopenia"
+        ],
+        "medications": [
+            "Anastrozole 1mg daily",
+            "Calcium 600mg + Vitamin D 800IU BID"
+        ],
+        "clinical_notes": "Patient is a 62-year-old female, status post left lumpectomy and sentinel lymph node biopsy 8 months ago for Stage IIA (T2N0M0) left breast invasive ductal carcinoma, Luminal A subtype (ER+, PR+, HER2-, Ki-67 12%). Oncotype DX recurrence score 14, favorable for endocrine therapy alone without chemotherapy. Completed adjuvant radiation therapy (whole breast, 40 Gy in 15 fractions). Currently on adjuvant anastrozole for planned 5-year course. Tolerating well with mild arthralgias managed with regular stretching and occasional acetaminophen. Surveillance mammogram at 6 months showed no evidence of recurrence. DXA scan shows lumbar spine T-score -1.8 (osteopenia) — on calcium and vitamin D supplementation with annual DXA monitoring. FRAX 10-year fracture risk 8%. Continue current management with next oncology follow-up in 3 months.",
+        "source": "Patient Records"
+    },
+    {
+        "patient_id": "PT-006",
+        "age": 28,
+        "gender": "Male",
+        "conditions": [
+            "Type 1 Diabetes Mellitus",
+            "Celiac Disease"
+        ],
+        "medications": [
+            "Insulin Glargine 22 units at bedtime",
+            "Insulin Lispro per carb counting (1:10 ratio)",
+            "No gluten-containing foods"
+        ],
+        "clinical_notes": "Patient is a 28-year-old male with Type 1 diabetes diagnosed at age 14, managed with basal-bolus insulin regimen. Uses continuous glucose monitor (Dexterity G7) with time in range (70-180 mg/dL) averaging 68%, target >70%. Latest HbA1c 7.2%, improved from 7.8% after CGM initiation. Hypoglycemic episodes decreased from 4 to 1 per week with CGM alerts. Celiac disease diagnosed 3 years ago on screening prompted by T1DM — positive tTG-IgA confirmed with duodenal biopsy showing Marsh 3a changes. Strict gluten-free diet adherence confirmed by normalized tTG-IgA levels. Nutritional evaluation shows adequate iron, folate, B12, calcium, and vitamin D levels. Thyroid function tests normal (TSH 2.1 mIU/L). Annual dilated eye exam showed no diabetic retinopathy. Urine microalbumin/creatinine ratio normal. Discussed transition to hybrid closed-loop insulin pump system.",
+        "source": "Patient Records"
+    },
+    {
+        "patient_id": "PT-007",
+        "age": 55,
+        "gender": "Male",
+        "conditions": [
+            "COPD (GOLD Stage 2, Group B)",
+            "Former Smoker"
+        ],
+        "medications": [
+            "Tiotropium 18mcg inhaled daily",
+            "Albuterol PRN"
+        ],
+        "clinical_notes": "Patient is a 55-year-old male with COPD, GOLD Stage 2 (FEV1 62% predicted), Group B (mMRC dyspnea grade 2, 0 exacerbations in past year). Former smoker with 30-pack-year history, quit 3 years ago. Currently on LAMA monotherapy with tiotropium per GOLD guidelines. Symptoms include exertional dyspnea walking uphill and occasional productive cough. Chest CT showed centrilobular emphysema predominantly in upper lobes. No alpha-1 antitrypsin deficiency (level 180 mg/dL). Oxygen saturation 94% at rest, 89% with 6-minute walk test (distance 420 meters). Annual influenza and pneumococcal vaccination up to date. Pulmonary rehabilitation program completed with improvement in exercise tolerance and CAT score (decreased from 22 to 16). Discussed addition of LABA if symptoms progress. Smoking cessation reinforced — nicotine replacement therapy no longer needed.",
+        "source": "Patient Records"
+    },
+    {
+        "patient_id": "PT-008",
+        "age": 40,
+        "gender": "Female",
+        "conditions": [
+            "Rheumatoid Arthritis",
+            "Iron Deficiency Anemia"
+        ],
+        "medications": [
+            "Methotrexate 20mg weekly",
+            "Folic acid 1mg daily",
+            "Adalimumab 40mg every 2 weeks",
+            "Ferrous sulfate 325mg daily"
+        ],
+        "clinical_notes": "Patient is a 40-year-old female with seropositive rheumatoid arthritis (RF+, anti-CCP+) diagnosed 4 years ago. Initially on methotrexate monotherapy with partial response — DAS28-CRP remained 4.2 (moderate disease activity) despite dose optimization to 20mg weekly. Adalimumab added 18 months ago with excellent response — current DAS28-CRP 2.4 (remission). No swollen or tender joints on exam. Morning stiffness <15 minutes. Hand and feet X-rays stable without new erosions. Labs: CRP 3 mg/L, ESR 12 mm/hr. Iron deficiency anemia identified 3 months ago (ferritin 8 ng/mL, Hgb 10.2 g/dL) — GI evaluation with upper and lower endoscopy showed no bleeding source, attributed to chronic disease and dietary insufficiency. Currently on oral iron replacement with improving ferritin (now 22 ng/mL) and hemoglobin (11.5 g/dL). TB screening negative prior to biologic initiation. Hepatitis B and C serologies negative. Continue current RA regimen with treat-to-target monitoring.",
+        "source": "Patient Records"
+    },
+    {
+        "patient_id": "PT-009",
+        "age": 68,
+        "gender": "Male",
+        "conditions": [
+            "Chronic Kidney Disease Stage 4",
+            "Type 2 Diabetes Mellitus",
+            "Hypertension",
+            "Secondary Hyperparathyroidism"
+        ],
+        "medications": [
+            "Insulin Glargine 30 units daily",
+            "Amlodipine 10mg daily",
+            "Losartan 100mg daily",
+            "Sodium Bicarbonate 650mg TID",
+            "Calcitriol 0.25mcg daily",
+            "Sevelamer 800mg TID with meals",
+            "Dapagliflozin 10mg daily",
+            "Erythropoietin stimulating agent"
+        ],
+        "clinical_notes": "Patient is a 68-year-old male with CKD stage 4 (eGFR 22 mL/min), secondary to diabetic nephropathy. Currently followed by nephrology with discussions regarding renal replacement therapy planning. Urine protein/creatinine ratio 2.8 g/g, stable. Blood pressure well-controlled at 126/74 mmHg on dual therapy. HbA1c 7.4% on insulin — transitioned from metformin (discontinued at eGFR <30) to insulin with SGLT2 inhibitor (dapagliflozin, shown to slow CKD progression). Metabolic complications managed: metabolic acidosis corrected with sodium bicarbonate (bicarb now 22 mEq/L), secondary hyperparathyroidism with calcitriol and sevelamer (PTH decreased from 280 to 190 pg/mL, phosphorus 4.8 mg/dL). Anemia of CKD managed with ESA (Hgb target 10-11 g/dL, currently 10.4). Potassium monitored — 4.8 mEq/L, dietary potassium restriction counseled. AV fistula creation planned in left forearm for future hemodialysis access. Renal transplant evaluation initiated.",
+        "source": "Patient Records"
+    },
+    {
+        "patient_id": "PT-010",
+        "age": 23,
+        "gender": "Female",
+        "conditions": [
+            "Migraine with Aura",
+            "Polycystic Ovary Syndrome"
+        ],
+        "medications": [
+            "Topiramate 50mg BID",
+            "Sumatriptan 100mg PRN",
+            "Combined oral contraceptive (low-dose estrogen)",
+            "Metformin 500mg BID"
+        ],
+        "clinical_notes": "Patient is a 23-year-old female with migraine with aura, experiencing 6-8 migraine days per month at presentation. Aura typically consists of visual scotoma lasting 20-30 minutes preceding headache. Initiated topiramate for prevention 4 months ago — migraine days decreased to 2-3 per month. Sumatriptan effective for acute attacks when taken early. Discussed that combined oral contraceptives may increase stroke risk in migraine with aura — however, patient and gynecologist made shared decision to continue low-dose formulation given PCOS management needs, with close monitoring. PCOS managed with OCP and metformin for insulin resistance. BMI 28.5 — weight management discussed, currently exercising 3 times per week. Migraine triggers identified: stress, sleep deprivation, skipped meals, and menstruation. Headache diary reviewed. Considered transition to CGRP monoclonal antibody if topiramate efficacy wanes or side effects emerge. No neuroimaging indicated given typical migraine presentation. Follow-up in 3 months.",
+        "source": "Patient Records"
+    },
+    {
+        "patient_id": "PT-011",
+        "age": 50,
+        "gender": "Male",
+        "conditions": [
+            "Hepatitis C (Genotype 1a)",
+            "Alcohol Use Disorder (in remission)",
+            "Compensated Cirrhosis (Child-Pugh A)"
+        ],
+        "medications": [
+            "Sofosbuvir-Velpatasvir 400/100mg daily (12-week course, week 8)"
+        ],
+        "clinical_notes": "Patient is a 50-year-old male with chronic hepatitis C genotype 1a, likely acquired through past injection drug use. History of alcohol use disorder, in sustained remission for 3 years with participation in support groups. FibroScan showed liver stiffness 16.2 kPa consistent with cirrhosis (F4). Liver function: AST 68 U/L, ALT 52 U/L, albumin 3.6 g/dL, total bilirubin 1.1 mg/dL, INR 1.1, platelets 112K — Child-Pugh score 5 (Class A). No ascites, variceal bleeding, or encephalopathy. Started on sofosbuvir-velpatasvir (Epclusa), currently at week 8 of 12-week treatment. HCV viral load at week 4 was undetectable — excellent early response. Tolerating treatment well with only mild fatigue. Hepatocellular carcinoma screening with ultrasound and AFP every 6 months — last screening unremarkable. Upper endoscopy showed small esophageal varices — no prophylaxis needed currently. SVR12 assessment planned 12 weeks after treatment completion. Abstinence from alcohol reinforced.",
+        "source": "Patient Records"
+    },
+    {
+        "patient_id": "PT-012",
+        "age": 78,
+        "gender": "Female",
+        "conditions": [
+            "Alzheimer's Disease (Mild)",
+            "Osteoporosis",
+            "Hypothyroidism"
+        ],
+        "medications": [
+            "Donepezil 10mg at bedtime",
+            "Levothyroxine 75mcg daily",
+            "Alendronate 70mg weekly",
+            "Calcium 600mg + Vitamin D 1000IU daily"
+        ],
+        "clinical_notes": "Patient is a 78-year-old female diagnosed with mild Alzheimer's disease 18 months ago. MMSE score 22/30 (mild cognitive impairment range), decreased from 24 at diagnosis. MoCA score 18/30. MRI brain showed diffuse cortical atrophy with hippocampal volume loss consistent with AD. Started on donepezil, titrated to 10mg with good tolerance — family reports stabilization of daily functioning. Caregiver (husband) is primary support; caregiver burden assessment performed, and respite care resources provided. Driving assessment recommended given progressive cognitive impairment. Advance care planning discussed — healthcare power of attorney and living will completed. Osteoporosis managed with weekly alendronate — DXA T-score -2.8 at lumbar spine, -2.2 at femoral neck. No fracture history. Fall risk assessment: moderate risk — home safety evaluation recommended, referral to physical therapy for balance and gait training. Hypothyroidism well-controlled on levothyroxine (TSH 2.4 mIU/L). Medication management transitioned to husband due to patient's memory difficulties. Cognitive stimulation activities and regular social engagement encouraged.",
+        "source": "Patient Records"
+    },
+    {
+        "patient_id": "PT-013",
+        "age": 35,
+        "gender": "Male",
+        "conditions": [
+            "Obesity (Class II, BMI 37.2)",
+            "Obstructive Sleep Apnea",
+            "Prediabetes",
+            "GERD"
+        ],
+        "medications": [
+            "CPAP therapy nightly",
+            "Omeprazole 20mg daily",
+            "Semaglutide 1.0mg subcutaneous weekly"
+        ],
+        "clinical_notes": "Patient is a 35-year-old male with Class II obesity presenting for weight management. Starting weight 265 lbs (BMI 37.2). Polysomnography confirmed severe obstructive sleep apnea (AHI 42 events/hour) — initiated CPAP therapy at 12 cmH2O, compliance 5.2 hours/night on download. Reports improved daytime alertness and energy. Prediabetes identified with HbA1c 6.1% and fasting glucose 112 mg/dL. Started semaglutide (GLP-1 RA) for obesity with beneficial effect on insulin resistance — titrated to 1.0mg weekly over 16 weeks. Current weight 238 lbs (10.2% weight loss at 5 months). GERD symptoms improved with weight loss — omeprazole maintained. Liver ultrasound showed moderate hepatic steatosis — ALT 48 U/L. Assessed for metabolic-associated steatotic liver disease (MASLD). Nutrition counseling with registered dietitian — 500 kcal/day deficit target maintained. Exercise program: 200 minutes/week moderate activity (combination of walking and cycling). Target weight loss >15% will be assessed for CPAP retitration and possible sleep study reassessment. If plateau, consider bariatric surgery consultation.",
+        "source": "Patient Records"
+    },
+    {
+        "patient_id": "PT-014",
+        "age": 42,
+        "gender": "Female",
+        "conditions": [
+            "Systemic Lupus Erythematosus",
+            "Lupus Nephritis (Class III)"
+        ],
+        "medications": [
+            "Hydroxychloroquine 200mg BID",
+            "Mycophenolate 1000mg BID",
+            "Prednisone 10mg daily (tapering)",
+            "Lisinopril 10mg daily"
+        ],
+        "clinical_notes": "Patient is a 42-year-old female with systemic lupus erythematosus (SLE) diagnosed 8 years ago, complicated by Class III lupus nephritis diagnosed on kidney biopsy 6 months ago. Presentation included proteinuria (2.5 g/day), hematuria, and rising creatinine (1.4 mg/dL). Induction therapy with mycophenolate mofetil and prednisone initiated per KDIGO guidelines. Prednisone taper underway: started at 60mg, currently at 10mg with plan to reach 5mg maintenance. Response to therapy: proteinuria decreased to 0.8 g/day, creatinine stabilized at 1.1 mg/dL, complement C3 and C4 levels normalizing, anti-dsDNA titers declining. Hydroxychloroquine continued as backbone therapy — reduces flares by 50% and has renoprotective properties. SPF 50+ sunscreen and sun avoidance counseled. Eye exam annual while on hydroxychloroquine — no maculopathy detected. Vaccinations updated (inactivated only given immunosuppression). Discussed pregnancy planning — recommend disease quiescence for ≥6 months before conception, mycophenolate must be switched to azathioprine prior to pregnancy. Monitor for infection risk on immunosuppressive therapy.",
+        "source": "Patient Records"
+    },
+    {
+        "patient_id": "PT-015",
+        "age": 60,
+        "gender": "Male",
+        "conditions": [
+            "Acute Ischemic Stroke (Left MCA territory)",
+            "Atrial Fibrillation (newly diagnosed)",
+            "Hypertension",
+            "Dysphagia"
+        ],
+        "medications": [
+            "Apixaban 5mg BID",
+            "Lisinopril 10mg daily",
+            "Atorvastatin 80mg daily",
+            "Aspirin 81mg daily (short-term, dual therapy for 21 days post-stroke)"
+        ],
+        "clinical_notes": "Patient is a 60-year-old male admitted 2 weeks ago with acute ischemic stroke in the left MCA territory presenting with right-sided hemiparesis and expressive aphasia. NIHSS on admission was 12. CT angiography showed left M1 occlusion — treated with IV alteplase (within 3 hours of symptom onset) and mechanical thrombectomy achieving TICI 2b reperfusion. Telemetry during hospitalization revealed new-onset atrial fibrillation (CHA2DS2-VASc score 4) — anticoagulation with apixaban initiated after 48-hour neuroimaging confirmed no hemorrhagic transformation. Current NIHSS 5 — residual mild right upper extremity weakness (4/5) and mild Broca's aphasia. Modified Rankin Scale 2. Swallow evaluation identified mild oropharyngeal dysphagia — modified diet with thin liquids and soft solids, speech therapy ongoing. Inpatient rehabilitation commenced with physical therapy (gait training, right UE strengthening), occupational therapy (ADL retraining), and speech-language pathology (aphasia therapy). Echocardiogram: EF 55%, mildly dilated left atrium. Stroke risk factors aggressively managed: statin intensified to atorvastatin 80mg, blood pressure target <130/80. Discharge planning to acute rehabilitation facility. Follow-up with neurology and cardiology scheduled. Patient education on stroke warning signs (BE-FAST) and importance of medication adherence.",
+        "source": "Patient Records"
+    }
+]

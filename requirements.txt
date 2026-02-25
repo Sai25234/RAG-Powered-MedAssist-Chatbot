@@ -1,0 +1,10 @@
+langchain
+langchain-community>=0.0.10
+langchain-groq>=0.0.1
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.0
+fastapi>=0.109.0
+uvicorn>=0.25.0
+streamlit>=1.30.0
+requests>=2.31.0
+python-dotenv>=1.0.0
