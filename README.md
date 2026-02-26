@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 ### 2. Set API Key
 
-Get a free API key from [console.groq.com](https://console.groq.com):
+Get a free API key from [console.groq.com](https://console.groq.com) and add it to app/config
 
 ```bash
 cp .env.example .env
@@ -114,21 +114,4 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 | `GET`  | `/health` | Health check + model status |
 | `POST` | `/query`  | Submit a medical question |
 
-**Example query:**
-```bash
-curl -X POST http://localhost:8000/query \
-  -H "Content-Type: application/json" \
-  -d '{"question": "What are the treatment options for Type 2 diabetes?"}'
-```
-
-## 📋 Example Questions
-
-- *"What are the symptoms and management of Type 2 diabetes?"*
-- *"How is hypertension diagnosed and what medications are used?"*
-- *"Explain the stepwise management of asthma"*
-- *"What are the risk factors for coronary artery disease?"*  
-- *"Describe the treatment approach for major depressive disorder"*
-
-## 📄 License
-
-This project is for educational and portfolio purposes.
+*
