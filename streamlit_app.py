@@ -181,7 +181,6 @@ def render_source_card(source: dict):
     """, unsafe_allow_html=True)
 
 
-# ── Sidebar ────────────────────────────────────────────────────────────────────
 with st.sidebar:
     st.markdown("## 🏥 MedAssist AI")
     st.markdown("---")
@@ -255,13 +254,12 @@ with st.sidebar:
 
     st.markdown("---")
 
-    # Clear chat
+
     if st.button("🗑️ Clear Chat History", use_container_width=True):
         st.session_state.messages = []
         st.session_state.query_count = 0
         st.rerun()
 
-# ── Main Content ───────────────────────────────────────────────────────────────
 st.markdown("""
 <div class="main-header">
     <h1>🏥 MedAssist AI</h1>
@@ -269,7 +267,6 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-# Disclaimer
 st.markdown("""
 <div class="disclaimer">
     ⚠️ <strong>Medical Disclaimer:</strong> This chatbot provides general medical information for educational purposes only.
@@ -277,7 +274,6 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-# ── Chat History ───────────────────────────────────────────────────────────────
 for message in st.session_state.messages:
     with st.chat_message(message["role"], avatar="🧑‍💻" if message["role"] == "user" else "🤖"):
         st.markdown(message["content"])
@@ -286,13 +282,12 @@ for message in st.session_state.messages:
                 for source in message["sources"]:
                     render_source_card(source)
 
-# ── Handle example query from sidebar ──────────────────────────────────────────
 if "example_query" in st.session_state:
     prompt = st.session_state.pop("example_query")
 else:
     prompt = st.chat_input("Ask a medical question...")
 
-# ── Process Query ──────────────────────────────────────────────────────────────
+
 if prompt:
     # Display user message
     st.session_state.messages.append({"role": "user", "content": prompt})
