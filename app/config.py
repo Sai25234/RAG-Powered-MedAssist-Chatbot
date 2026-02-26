@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # ── LLM Settings ───────────────────────────────────────────────────────────────
-GROQ_API_KEY = os.getenv("GROQ_API_KEY", "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")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
 LLM_MODEL_NAME = "llama-3.1-8b-instant"
 LLM_TEMPERATURE = 0.3
 LLM_MAX_TOKENS = 1024
